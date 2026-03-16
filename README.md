@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="1014" height="620" alt="OpenClaw Agent WebUI Screenshot" src="https://github.com/user-attachments/assets/efdb14cb-c2cf-4e2d-9df7-5b5e30db9161" />
-</p>
-
 # OpenClaw Agent WebUI
 
 **A Modern, Production-Grade Web Interface for OpenClaw**
